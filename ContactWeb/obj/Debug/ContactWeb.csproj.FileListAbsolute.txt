@@ -159,6 +159,5 @@ C:\Users\PC\Documents\Post1000-ContactWeb\ContactWeb\ContactWeb\bin\Microsoft.Ow
 C:\Users\PC\Documents\Post1000-ContactWeb\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\PC\Documents\Post1000-ContactWeb\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\PC\Documents\Post1000-ContactWeb\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\PC\Documents\Post1000-ContactWeb\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
 C:\Users\PC\Documents\Post1000-ContactWeb\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
 C:\Users\PC\Documents\Post1000-ContactWeb\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
